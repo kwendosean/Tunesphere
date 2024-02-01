@@ -1,0 +1,59 @@
+body{
+    background-image: url(d9319416c1f642c5b052fd1b7ca4ea28.jpg);
+    ;
+   background-repeat: no-repeat;
+    ;
+   background-attachment: fixed;
+    ;
+   background-size: cover;
+}
+.Searchbox{
+    height: 34px;
+    ;
+   width: 330px;
+    ;
+   background: linear-gradient(#465389 #567836) ;
+   background-repeat: no-repeat;
+    ;
+   background-attachment: fixed;
+}
+h1{
+    font-family: GFS Didot;
+    color: lawngreen;
+}
+.ARTISTS{
+    font-family: GFS Didot;
+    color: beige;
+}
+.material-symbols-outlined {
+    font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24 ;
+   float: right;
+}
+.Cench{
+    border-radius: 30px;
+    ;
+   width: 200px;
+}
+.Chapters{
+    color: antiquewhite;
+    border: #465389;
+}
+.CENTRAL{
+    font-family: Reenie Beanie;
+}
+.DAVE{
+    font-family: Reenie Beanie;
+}
+.DAVESANTAN{
+    border-radius: 30px;
+    ;
+   width: 200px;
+}
+.Jcole{
+    font-family: Reenie Beanie;
+}
+.JAYCOLE{
+    border-radius: 30px;
+    ;
+   width: 200px;
+}
